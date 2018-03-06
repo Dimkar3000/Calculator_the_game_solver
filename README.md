@@ -5,10 +5,12 @@ Writen in Python 2/3
 Solves all the problems until level 199 which to the moment I write this is the last level
 
 # Input
-Input is given from the command line: 
-'''bash
+Input is given from the command line:
+
+```bash
 ./solver steps goal start [buttons ...]
-'''
+```
+
 The list buttons to use is given the exact same way they are written in the interface. 
 Tip 1: Every button that contains '>' or '<' has to given in quotes because they are special bash characters
 Tip 2: For the last level you tell the programm to use memory with the "MEM" command and to use portals with "p03" where 0 and 3 are the character that the portal is on from right to left
