@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-import math
 import sys
-
 result = list()
 
 def reverse_num(x):
